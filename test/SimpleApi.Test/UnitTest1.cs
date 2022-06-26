@@ -9,8 +9,8 @@ public class UnitTest1
     {
 
     }
-
-     WeatherForecastController controller = new WeatherForecastController();
+     ValuesController controller = new ValuesController();
+    // WeatherForecastController controller = new WeatherForecastController();
     [Fact]
     
     public void GetReturnsCorrectNumber()
